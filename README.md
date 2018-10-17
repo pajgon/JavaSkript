@@ -1,2 +1,0 @@
-# JavaSkript
-Created with CodeSandbox
